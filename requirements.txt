@@ -1,0 +1,11 @@
+requests
+jupyter
+numpy
+matplotlib
+pandas
+python-dotenv
+sklearn
+kaleido
+gif
+jupyter-dash
+plotly
